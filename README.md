@@ -16,6 +16,13 @@ The machine learning model is integrated with a Flask web application and provid
 - Interactive Flask web application
 - Responsive Bootstrap-based user interface
 
+  ## 🌐 Live Demo
+
+🚀 **[Click Here to Open the House Price Predictor](https://bangalore-house-price-predictor-kghi.onrender.com)**
+
+> **Note:** Hosted on Render's free tier. The first request after inactivity may take around 50 seconds.
+
+
 ## 📸 Project Screenshot
 
 Below is the user interface of the Bangalore House Price Predictor:
