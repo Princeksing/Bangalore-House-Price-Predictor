@@ -16,6 +16,12 @@ The machine learning model is integrated with a Flask web application and provid
 - Interactive Flask web application
 - Responsive Bootstrap-based user interface
 
+## 📸 Project Screenshot
+
+Below is the user interface of the Bangalore House Price Predictor:
+
+![Bangalore House Price Predictor](screenshots/house-price-predictor.png)
+
 ## 🤖 Machine Learning Models
 
 The following regression algorithms were tested:
